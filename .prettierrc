@@ -1,0 +1,4 @@
+{
+  "braceStyle": "stroustrup",
+  "plugins": ["prettier-plugin-brace-style"]
+}

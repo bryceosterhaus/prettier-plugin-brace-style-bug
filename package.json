@@ -1,0 +1,15 @@
+{
+  "name": "prettier-plugin-brace-style-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier ./index.js --write"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.2.5",
+    "prettier-plugin-brace-style": "^0.6.0"
+  }
+}
