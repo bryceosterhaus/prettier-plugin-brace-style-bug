@@ -1,1 +1,4 @@
-run `npm run format`
+```
+npm install
+npm run format
+```
